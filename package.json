@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://101501186.github.com/comp3104",
+  "homepage": "https://101501186.github.io/comp3104",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
